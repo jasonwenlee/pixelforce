@@ -3,6 +3,7 @@ import 'package:pixelforce/components/image_loader.dart';
 import 'package:pixelforce/network/explore_page_network_request.dart';
 
 /// ThumbnailsLoader is a widget that takes a url, and loads a thumbnail.
+/// This widget displays a description along with an image.
 class ThumbnailsLoader extends StatelessWidget {
   /// Takes in a url to an image.
   final String url;

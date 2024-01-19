@@ -15,7 +15,7 @@ class MyApp extends StatefulWidget {
 }
 
 class _MyAppState extends State<MyApp> {
-  int _currentIndex = 1;
+  final int _currentIndex = 1;
 
   @override
   Widget build(BuildContext context) {
@@ -72,9 +72,7 @@ class _MyAppState extends State<MyApp> {
           backgroundColor: Colors.white,
           currentIndex: _currentIndex,
           onTap: (index) {
-            setState(() {
-              _currentIndex = index;
-            });
+            print('Switch screens');
           },
           items: const [
             BottomNavigationBarItem(
