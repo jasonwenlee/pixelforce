@@ -1,6 +1,6 @@
 # pixelforce
 
-This is a Flutter pixelforce app built using design from Figma:
+This is a Flutter pixelforce app built using design from the Explore tab on Figma:
 https://www.figma.com/file/vtIAbUhIVhDqDjtpOCl74V/Front-End-Example?type=design&node-id=403%3A124&mode=dev
 
 ## Getting Started
@@ -62,8 +62,8 @@ Click Debug or Run, and play around!! :)
 
 ### Implementation approach
 
-I decided to keep is as simple as possible and focus on the Explore tab. I maintained the need for reusable 
-components, and emphasising on project structure and tidiness.
+I decided to keep is as simple as possible. I maintained the need for reusable components, and emphasising 
+on project structure and tidiness.
 
 ### End Result
 ![Simulator Screen Recording - iPhone 15 - 2024-01-19 at 16 39 45](https://github.com/jasonwenlee/pixelforce/assets/36957919/663a8525-ed57-42b0-9be4-a876d3206abe)
