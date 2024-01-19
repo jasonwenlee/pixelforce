@@ -65,6 +65,10 @@ Click Debug or Run, and play around!! :)
 I decided to keep is as simple as possible. I maintained the need for reusable components, and emphasising 
 on project structure and tidiness.
 
+### Improvements
+1. Implement pull-to-refresh
+2. Replace loading indicators with a shimmer effect.
+
 ### End Result
 ![Simulator Screen Recording - iPhone 15 - 2024-01-19 at 16 39 45](https://github.com/jasonwenlee/pixelforce/assets/36957919/663a8525-ed57-42b0-9be4-a876d3206abe)
 
